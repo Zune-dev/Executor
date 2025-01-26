@@ -1,2 +1,1 @@
-# 
-Arceus X Neo
+# Arceus X Neo
